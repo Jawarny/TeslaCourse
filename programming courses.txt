@@ -1,0 +1,27 @@
+Install node js
+- https://nodejs.org/en/download/current
+
+Install VS code
+- https://code.visualstudio.com/download
+Install vs code plugin (Live server)
+- https://www.geeksforgeeks.org/how-to-enable-live-server-on-visual-studio-code/
+
+Install npm 
+- https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+
+Install chocolatey
+- https://chocolatey.org/install
+
+Install tailwind css
+- https://tailwindcss.com/docs/installation
+
+
+Install python
+- https://www.python.org/downloads/
+
+Install plugins (Tailwind CSS IntelliSense)
+- https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
+- https://tailwindcss.com/docs/editor-setup#intelli-sense-for-vs-code
+
+Install git bash and winget tool
+- https://git-scm.com/download/win
