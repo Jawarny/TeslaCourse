@@ -25,3 +25,16 @@ Install plugins (Tailwind CSS IntelliSense)
 
 Install git bash and winget tool
 - https://git-scm.com/download/win
+
+
+Install Java 8 or Java 15
+
+Install IntelliJ ou Eclipse
+
+Install git graph plugin on VS code
+
+
+Java course on youtube.
+
+SourceTree ?
+Gradle ?
